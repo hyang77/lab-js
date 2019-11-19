@@ -1,6 +1,6 @@
   
 function init(){
-	var button = document.getElementById("entyrbutton");
+	var button = document.getElementById("entrybutton");
 	button.addEventListener('click', myFunction);
 }
 function myFunction() {
